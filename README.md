@@ -1,7 +1,7 @@
 # Calculadora-IMC-
 Calculadora de Índice de Masa Corporal (IMC)
 
-Con la característica de que informa junto con el resultado si el usuario esta con bajo peso, si esta con peso normal ó si esta con sobre peso, diferenciandose entre si con distintos colores.
+La calculadora de índice de masa corporal también tiene la característica, de que luego de imprimir por pantalla los resultados, según los datos ingresados por el usuario, esta también le mostrará con texto en diferentes colores de acuerdo a su índice de masa corporal conforme a los resultados, estos podrían ser los siguientes:  bajo peso, peso normal ó si esta con sobre peso, entre otros.
 
 Realizada con las siguientes tecnologías:
 
